@@ -1,4 +1,26 @@
-# Hola, soy David Dávila 👋
+# Hi, I'm David Dávila 👋
+
+Product Owner specialized in digital banking. I design methods that help teams write
+clear, complete and testable user stories — and I automate them with AI.
+
+## Projects
+
+**[story-forge](https://github.com/davilafon-popm/story-forge)** — Method and Claude plugin
+to write near-final user stories from requirements and designs, in any language and with
+any tracker, wiki and design tool (Jira, Azure DevOps, Linear, Confluence, Notion, Figma, Penpot…).
+
+- Scope check before writing
+- Given/When/Then criteria with a design image under each one
+- A knowledge base per market that learns from every sprint's bugs
+- Alternatives for every fragile step (quotas, permissions, vendor UIs)
+
+## Topics
+
+Product ownership · User stories · Digital banking · AI workflows
+
+---
+
+# Hola, soy David Dávila
 
 Product Owner especializado en banca digital. Diseño métodos para que los equipos
 escriban historias de usuario claras, completas y verificables — y los automatizo con IA.
@@ -18,8 +40,3 @@ en cualquier idioma y con cualquier gestor de tickets, wiki y herramienta de dis
 ## Temas
 
 Product ownership · Historias de usuario · Banca digital · Flujos de trabajo con IA
-
----
-
-*Hi, I'm David — a Product Owner building tool-agnostic methods to write better user
-stories with AI. Check out [story-forge](https://github.com/davilafon-popm/story-forge).*
